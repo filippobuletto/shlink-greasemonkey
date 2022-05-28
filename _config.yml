@@ -1,7 +1,7 @@
 title: Shlink Greasemonkey User Script
 description: This script use Shlink API calls to shorten visited URLs
 show_downloads: false
-theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
